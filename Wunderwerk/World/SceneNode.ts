@@ -95,8 +95,8 @@ module Wunderwerk {
         }
 
         /**
-         * Checks whether the node and its parents are active.
-         * @return {boolean} True if the node and its parents are active, false otherwise.
+         * Recursively checks whether the node and all of its parent nodes are active.
+         * @return {boolean} True if the node and all of its parent nodes are active, false otherwise.
          */
 
         get active(): boolean {
@@ -124,10 +124,10 @@ module Wunderwerk {
 
         /**
          * Returns a reference to the parent node (or null if the node is not attached).
-         * @return {Point} A Point object.
+         * @return {null | SceneNode} The parent node.
          */
 
-        get parent() {
+        get parent(): null | SceneNode {
             return this.m_parent;
         }
 
