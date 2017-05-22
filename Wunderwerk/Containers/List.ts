@@ -40,7 +40,7 @@ module Wunderwerk {
 
         /**
          * Constructor.
-         * @param {null | T[]} values: initial values or null.
+         * @param {null | T[]} values: Initial values or null.
          */
 
         constructor(values: null | T[] = null) {
@@ -285,8 +285,8 @@ module Wunderwerk {
 
         /**
          * Swaps the array elements at the two given indices.
-         * @param {number} firstIndex: The first array index.
-         * @param {number} secondIndex: The second array index.
+         * @param {number} firstIndex: The first array index. Must be zero or positive.
+         * @param {number} secondIndex: The second array index. Must be zero or positive.
          * @return {boolean} True if the elements have been successfully swapped, false otherwise.
          */
 
