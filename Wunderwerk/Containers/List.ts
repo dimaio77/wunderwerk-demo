@@ -15,6 +15,7 @@ module Wunderwerk {
         at(index: number): null | T;
         index(value: T): null | number;
 
+        add(value: T): null | number;
         add(value: T, allowDuplicates: boolean): null | number;
         replace(index: number, value: T): null | T;
 
@@ -64,7 +65,7 @@ module Wunderwerk {
 
         /**
          * Returns the number of elements in the array list.
-         * @return {number} The number of elements of the array list.
+         * @return {number} The number of elements in the array list.
          */
 
         get count(): number {
