@@ -144,7 +144,7 @@ module Wunderwerk {
             this.m_updateRequired = true;
         }
 
-        update(forceUpdate = false, deltaTime = 1): boolean {
+        update(deltaTime: number, forceUpdate = false): boolean {
             let updateRequired = forceUpdate || this.m_updateRequired || this.nodes.updated;
 
             if (updateRequired) {
@@ -168,7 +168,7 @@ module Wunderwerk {
             }
 
             this.nodes.each((name, transform: Transform) => {
-                transform.update(updateRequired, deltaTime);
+                transform.update(deltaTime, updateRequired);
             });
 
             return updateRequired;
@@ -179,6 +179,7 @@ module Wunderwerk {
     export namespace Transform {
 
         export const origin = new Transform();
+
     }
 
 }
