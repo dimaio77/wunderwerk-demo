@@ -18,8 +18,8 @@ The game engine is complemented by a Python plug-in for [Blender 3D](https://www
 
 Screenshots
 -----------
-![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/01.jpg)
-![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/02.jpg)
-![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/03.jpg)
-![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/04.jpg)
-![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/05.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/Screenshots/01.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/Screenshots/02.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/Screenshots/03.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/Screenshots/04.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/Screenshots/05.jpg)
