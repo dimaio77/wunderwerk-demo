@@ -22,3 +22,4 @@ Screenshots
 ![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/02.jpg)
 ![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/03.jpg)
 ![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/04.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/05.jpg)
