@@ -18,7 +18,7 @@ The game engine is complemented by a Python plug-in for [Blender 3D](https://www
 
 Screenshots
 -----------
-![](http://vexator.gienah.uberspace.de/demo/screens/01.jpg)
-![](http://vexator.gienah.uberspace.de/demo/screens/02.jpg)
-![](http://vexator.gienah.uberspace.de/demo/screens/03.jpg)
-![](http://vexator.gienah.uberspace.de/demo/screens/04.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/01.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/02.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/03.jpg)
+![](https://github.com/matthiasferch/Wunderwerk/blob/master/screenshots/04.jpg)
